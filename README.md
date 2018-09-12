@@ -1,1 +1,1 @@
-基于tf-idf 对聊天语料文本分类，根据分类标签使用bilstm预测生成答案，new_chat.py 合并对话语料为QAQA一问一答的形式基于tf-idf 对聊天语料文本分类，根据分类标签使用bilstm预测生成答案，new_chat.py 合并对话语料为QAQA一问一答的形式,category.py 对语料按200条一个文件生成，并根据相似度分类，category6_2.py对第一次分类目录，两两文件合并分类生成新文件。
+基于tf-idf 对聊天语料文本分类，根据分类标签使用bilstm预测生成答案，new_chat.py 合并对话语料为QAQA一问一答的形式基于tf-idf 对聊天语料文本分类，根据分类标签使用bilstm预测生成答案，new_chat.py 合并对话语料为QAQA一问一答的形式,category.py 对语料按200条一个文件生成，并根据相似度分类，category6_2.py对第一次分类目录，两两文件合并分类生成新文件。new_biaozhu.py 根据分类结果对语料的每一行打分类标签。feature.py 根据sessionid 的不同读取每次对话的标签，生成feature.py
